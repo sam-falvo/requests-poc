@@ -34,6 +34,7 @@ nmap==0.0.1
 pathlib2==2.1.0
 pexpect==4.2.1
 pickleshare==0.7.4
+pip==10.0.1
 pluggy==0.6.0
 prompt-toolkit==1.0.9
 psutil==5.4.3
@@ -47,7 +48,6 @@ Pygments==2.2.0
 PyJWT==1.5.2
 pyOpenSSL==17.2.0
 pyserial==3.3
-pysunspec==1.0.8
 python-dateutil==2.6.1
 python-editor==1.0.3
 pytz==2017.2
@@ -62,6 +62,7 @@ ruamel.ordereddict==0.4.13
 ruamel.yaml==0.15.32
 schedule==0.4.3
 SecretStorage==2.3.1
+setuptools==39.1.0
 simplegeneric==0.8.1
 singledispatch==3.4.0.3
 six==1.10.0
@@ -79,3 +80,4 @@ urllib3==1.21.1
 virtualenv==15.2.0
 wcwidth==0.1.7
 webencodings==0.5.1
+wheel==0.24.0
